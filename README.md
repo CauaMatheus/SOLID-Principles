@@ -6,7 +6,7 @@
 <hr/>
 
 ### Sumary:
-- 🚀 [Descrição](#description)
+- 💬 [Descrição](#description)
 - 👨‍💻 [Tecnologias](#technologies)
 - 📦️ [Como usar](#clone)
 
