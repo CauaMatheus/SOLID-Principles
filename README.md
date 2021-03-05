@@ -13,7 +13,7 @@
 <hr/>
 
 
-## 🚀 Descrição <a id="description"><a/>
+## 💬 Descrição <a id="description"><a/>
 <p>Sabemos que programar não é apenas escrever um código funcional, ele também deve ser verboso e de fácil entendimento. Para aprender cada vez mais sobre isso, desejei estudar a arquitetura de desenvolvimento SOLID.<p/>
   
 <p>Esse repositório contém meu estudo sobre os princípios de arquitetura SOLID em um desenvolvimento de uma fake api-rest funcional.<p/>
