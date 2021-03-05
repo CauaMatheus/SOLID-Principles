@@ -8,7 +8,7 @@
 ### Sumary:
 - 🚀 [Descrição](#description)
 - 👨‍💻 [Tecnologias](#technologies)
-- 📦️ [How use](#clone)
+- 📦️ [Como usar](#clone)
 
 <hr/>
 
