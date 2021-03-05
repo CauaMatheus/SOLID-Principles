@@ -18,11 +18,11 @@ Sabemos que programar não é apenas escrever um código funcional, ele também 
   
 Esse repositório contém meu estudo sobre os princípios de arquitetura SOLID em um desenvolvimento de uma fake api-rest funcional. <br/>
 Tá, mas o que significa SOLID? <br/>
-Single responsibility principle <br/>
-Open/closed principle <br/>
-Liskov substitution principle <br/>
-Interface segregation principle <br/>
-Dependency inversion principle <br/>
+<strong>S<strong/>ingle responsibility principle <br/>
+<strong>O<strong/>pen/closed principle <br/>
+<strong>L<strong/>iskov substitution principle <br/>
+<strong>I<strong/>nterface segregation principle <br/>
+<strong>D<strong/>ependency inversion principle <br/>
 
 ---
 
