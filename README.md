@@ -8,7 +8,7 @@
 ### Sumary:
 - 🚀 [Descrição](#description)
 - 👨‍💻 [Tecnologias](#technologies)
-- 📦️ [How use](#)
+- 📦️ [How use](#clone)
 
 <hr/>
 
@@ -41,7 +41,7 @@ Dependency inversion principle
 
 ---
 
-## 📦️ How use
+## 📦️ Como usar <a id="clone"><a/>
 
 Primeiramente você deve baixar e entrar na pasta
 
