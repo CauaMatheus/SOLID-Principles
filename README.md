@@ -14,9 +14,9 @@
 
 
 ## 🚀 Descrição <a id="description"><a/>
-Sabemos que programar não é apenas escrever um código funcional, ele também deve ser verboso e de fácil entendimento. Para aprender cada vez mais sobre isso, desejei estudar a arquitetura de desenvolvimento SOLID.
+<p>Sabemos que programar não é apenas escrever um código funcional, ele também deve ser verboso e de fácil entendimento. Para aprender cada vez mais sobre isso, desejei estudar a arquitetura de desenvolvimento SOLID.<p/>
   
-Esse repositório contém meu estudo sobre os princípios de arquitetura SOLID em um desenvolvimento de uma fake api-rest funcional. <br/>
+<p>Esse repositório contém meu estudo sobre os princípios de arquitetura SOLID em um desenvolvimento de uma fake api-rest funcional.<p/>
 Tá, mas o que significa SOLID? <br/>
 <strong>S<strong/>ingle responsibility principle <br/>
 <strong>O<strong/>pen/closed principle <br/>
