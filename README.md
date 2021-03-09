@@ -47,7 +47,7 @@ Tá, mas o que significa SOLID? <br/>
 Primeiramente você deve baixar e entrar na pasta
 
 ```bash
-  ❯ git clone https://github.com/TatianaFischer/Labephoto-Frontend.git
+  ❯ git clone https://github.com/CauaMatheus/SOLID-Principles.git
   ❯ cd SOLID-Principles
 ```
 
