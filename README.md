@@ -18,11 +18,11 @@
   
 <p>Esse repositório contém meu estudo sobre os princípios de arquitetura SOLID em um desenvolvimento de uma fake api-rest funcional.<p/>
 Tá, mas o que significa SOLID? <br/>
-<strong>S</strong>ingle responsibility principle <br/>
-<strong>O</strong>pen/closed principle <br/>
-<strong>L</strong>iskov substitution principle <br/>
-<strong>I</strong>nterface segregation principle <br/>
-<strong>D</strong>ependency inversion principle <br/>
+<strong style="font-size: 30px">S</strong>ingle responsibility principle <br/>
+<strong style="font-size: 30px">O</strong>pen/closed principle <br/>
+<strong style="font-size: 30px">L</strong>iskov substitution principle <br/>
+<strong style="font-size: 30px">I</strong>nterface segregation principle <br/>
+<strong style="font-size: 30px">D</strong>ependency inversion principle <br/>
 
 ---
 
